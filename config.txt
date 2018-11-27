@@ -1,6 +1,6 @@
 token=NDk3Nzc2MTEzNDgxODA5OTM4.DtygqQ.-zAJ3YIibgi9o5ymoOULPXV1mjE 
 owner=233512482365243392
 prefix= 5
-game= MADE BY LOVE
+game= NEWDAY
 stayinchannel=true
 songinstatus=true 
