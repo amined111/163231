@@ -1,5 +1,5 @@
 token=NDk3Nzc2MTEzNDgxODA5OTM4.DtygqQ.-zAJ3YIibgi9o5ymoOULPXV1mjE 
-owner=485917652120764429 
+owner=233512482365243392
 prefix= 5
 game= MADE BY LOVE
 stayinchannel=true
